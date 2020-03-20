@@ -6,5 +6,9 @@
     text-decoration: none;
 }
 body{
-    background: blue white;
+    background: blue;
+    color: white;
+}
+a{
+    color: rgb(219, 0, 219);
 }
