@@ -1,1 +1,1 @@
-document.body.innerHTML = 'gilbert'
+console.log('hello world');
