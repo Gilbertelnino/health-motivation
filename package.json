@@ -1,0 +1,15 @@
+{
+  "name": "motivation",
+  "version": "1.0.0",
+  "description": "weight loss and health motivation website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ui"
+  },
+  "author": "Gilbert Elnino",
+  "homepage": "https://Gilbertelnino.github.io/health-motivation",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
